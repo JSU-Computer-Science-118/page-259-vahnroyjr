@@ -10,7 +10,7 @@ int main()
     cout<<"Enter the value of a (coefficient"<<"of square of X):";
   cin>>a;
   if(a==0)
-      cout<<"Invalid entry";
+      cout<<"Invalid entry"<<endl;
   else {
       cout << "Enter the variable of b (coefficient" << "of X):";
   }
